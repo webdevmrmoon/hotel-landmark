@@ -2491,6 +2491,8 @@ figure.image {
 
 .service-block .inner-box img {
     width: 50px;
+    width: 50px;
+    filter: grayscale(3) brightness(0.1);
 }
 
 .HroomListing {
